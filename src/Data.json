@@ -1,0 +1,596 @@
+{
+  "heroData": {
+    "homeOneHero": {
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "imgLink": "/images/section/hero-img.jpg",
+      "title": "Subhan <br /> Ahmed",
+      "subTitle": "Hello, I’m",
+      "designation": "Tiktok Shop Executive"
+    },
+    "homeTwoHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    },
+    "homeThreeHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg-1.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    },
+    "homeFourHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg-2.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    }
+  },
+  "aboutData": {
+    "imgLink": "/images/section/about.jpg",
+    "cvPdf": "/images/M-Subhan-Ahmed-CV.pdf",
+    "title": "Hi There! I'm Subhan Ahmed",
+    "subtitle": "Tiktok Shop Executive",
+    "text": "I am a Tiktok Shop Executive With 2 years of TikTok Shop experience, I have managed product listings, inventory, and order fulfillment while executing ad campaigns to boost sales. Skilled in working with affiliates, handling customer feedback, and creating content that drives engagement and conversions.",
+    "details": [
+      {
+        "title": "Birthday",
+        "info": "07 February, 1998"
+      },
+      {
+        "title": "Phone",
+        "info": "+92 331-021-1477"
+      },
+      {
+        "title": "Email",
+        "info": "subhanimran98@gmail.com"
+      },
+      {
+        "title": "From",
+        "info": "Karachi, Pakistan"
+      },
+      {
+        "title": "Language",
+        "info": "English, Urdu"
+      },
+      {
+        "title": "Freelance",
+        "info": "Available"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "./images/icon/icon5.png",
+        "title": "Affiliate Marketing Management",
+        "text": "Managed affiliate creators by onboarding, sending samples, and coordinating content. Focused on building relationships to drive consistent sales and improve ROI.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/icon/icon2.png",
+        "title": "Order & Customer Support Management",
+        "text": "Handled customer queries, returns, and refunds while ensuring smooth order processing. Maintained high satisfaction through quick and effective issue resolution.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/icon/icon3.png",
+        "title": "Product Listing Optimization",
+        "text": "Optimized product listings with strong titles, descriptions, and keywords. Updated pricing, stock, and visuals to improve visibility and attract more buyers.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/icon/icon4.png",
+        "title": "Performance Analysis & Reporting",
+        "text": "Tracked sales, conversions, and campaign performance to identify trends. Shared insights and reports to improve strategies and boost overall shop results.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/icon/icon1.png",
+        "title": "TikTok Shop Marketing & Campaign Execution",
+        "text": "Executed campaigns including discounts, flash sales, and influencer promotions. Focused on increasing traffic, visibility, and conversions through targeted strategies.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/icon/icon6.png",
+        "title": "Content Strategy & Growth Optimization",
+        "text": "Developed content strategies based on trends to increase engagement. Guided creators to produce videos that improve reach, growth, and sales performance.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "My Professional Skillset",
+    "text": "I have developed a strong skill set in TikTok Shop management, from performance marketing to e-commerce operations. Here are some of the key areas where I excel, with a proven track record of driving growth and engagement.",
+    "skills": [
+      {
+        "title": "Performance Marketing",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "Data Analysis & Reporting",
+        "progress": "75%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "Affiliate & Influencer Management",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "Content Strategy",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "Campaign Management",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "Product Optimization",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "E-commerce Operations",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      }
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "Trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "The latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "title": "Arslan",
+        "designation": "Upwork Client",
+        "text": "I hired Subhan to help me set up my TikTok Shop, and I am extremely impressed with his work. From the very beginning, he was professional, knowledgeable, and incredibly easy to communicate with. He guided me through every step of the process, answered all my questions clearly, and made the entire setup smooth and stress-free"
+      },
+      {
+        "title": "Khairul",
+        "designation": "Upwork Client",
+        "text": "Subahan is a very nice guy. We have been working for long time. His current project is finished. Looking forward to work with him in near future."
+      },
+      {
+        "title": "Muhammad A.",
+        "designation": "Upwork Client",
+        "text": "Subhan did an exceptional job! His expertise, attention to detail, and clear communication made the entire process seamless. He delivered outstanding results ahead of schedule, and I’d happily hire him again. Highly recommended"
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Experience",
+    "experience": [
+      {
+        "title": "TikTok Shop Executive ",
+        "duration": "Nov 2025 - Present",
+        "subTitle": "Brands Zone UK",
+        "text": [
+          "Managed FMCG product operations on TikTok Shop from listing to daily performance tracking.",
+          "Worked closely with affiliates and creators to boost sales through engaging content.",
+          "Ran and optimized GMV Max ad campaigns to maximize revenue and scale winning products.",
+          "Resolved customer return and refund issues while maintaining a positive customer experience.",
+          "Analyzed customer feedback and reviews to improve product quality and store performance."
+        ]
+      },
+      {
+        "title": "TikTok Shop Project Partner",
+        "duration": "March 2025 - Dec 2025",
+        "subTitle": "Zarupt ",
+        "text":[
+          "Manage and oversee TikTok Shop accounts for clients based in the USA, ensuring smooth store operations, listing optimization, and campaign performance.",
+          "Lead and coordinate a team of professionals to execute daily tasks, including product uploads, content creation, order management, and customer service.",
+          "Communicate directly with clients to understand their business goals, provide regular updates, and ensure satisfaction with deliverables."
+        ] 
+      },
+      {
+        "title": "Operation Manager",
+        "duration": "Feb 2024 - Dec 2025",
+        "subTitle": "Elevate Carts",
+        "text": [
+          "Handling product listings, pricing strategies, and promotions to enhance visibility and conversion.",
+          "Implementing TikTok ad campaigns, collaborating with influencers, and leveraging the Affiliate Program to drive sales",
+          "Analyzing sales trends, monitoring KPIs, and adjusting strategies to maximize performance"
+        ]
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "Bachelor of Business Administration",
+        "duration": "Sep 2022 - Jan 2025",
+        "subTitle": "Kasbit University",
+        "text": [
+          "I studied the core concepts of business, including how organizations operate, management principles, and different business structures.",
+          "I learned marketing strategies, customer behavior, branding, and effective ways to promote and sell products and services.",
+          "I gained knowledge of financial management, budgeting, and accounting basics to understand how businesses handle money and make financial decisions.",
+          "I developed an understanding of human resource management, including hiring processes, employee development, and workplace management.",
+          "I improved my communication, teamwork, and problem-solving skills to work effectively in a professional business environment."
+        ]
+      },
+      {
+        "title": "Associate Degree in Commerce (ADP) ",
+        "duration": "2020 - 2022",
+        "subTitle": "Kasbit University",
+        "text": [
+          "I studied the fundamentals of commerce, including trade, business activities, and how markets operate.",
+          "I learned accounting principles such as preparing financial statements, managing records, and understanding business transactions.",
+          "I gained knowledge of economics, including supply and demand, market structures, and basic economic concepts.",
+          "I developed an understanding of business law and commercial practices, including contracts and legal aspects of business.",
+          "I improved my analytical, communication, and problem-solving skills for working in business and financial environments."
+
+        ]
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Ready to work together?",
+    "title": "Contact Info",
+    "subTitle": "Let’s connect and grow your TikTok Shop",
+    "text": "Send your message and I’ll respond within 24 hours with a tailored plan to improve traffic, conversion, and revenue."
+  },
+  "socialData": [
+
+    {
+      "icon": "upwork",
+      "title": "Upwork",
+      "link": "https://www.upwork.com/freelancers/~0112ad6a5e92dd6387"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/muhammad-subhan-ahmed-6664a3169?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
+    {
+      "icon": "whatsapp",
+      "title": "WhatsApp",
+      "link": "https://wa.me/923310211477"
+    }
+  ],
+  "socialData2": [
+    {
+      "icon": "facebook-f",
+      "link": "/facebook"
+    },
+    {
+      "icon": "twitter",
+      "link": "/twitter"
+    },
+    {
+      "icon": "github",
+      "link": "/github"
+    }
+  ]
+}
