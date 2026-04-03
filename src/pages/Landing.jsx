@@ -22,9 +22,4 @@ const Landing = () => {
   )
 }
 
-{/* <Link to={element.version} className="st-demo-link" target="_blank">
-  <img src={element.imgLink} alt="" />
-  <h2>{element.title}</h2>
-</Link> */}
-
 export default Landing;

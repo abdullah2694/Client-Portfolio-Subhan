@@ -6,24 +6,6 @@
       "title": "Subhan <br /> Ahmed",
       "subTitle": "Hello, I’m",
       "designation": "Tiktok Shop Executive"
-    },
-    "homeTwoHero": {
-      "imgAuthor": "/images/section/hero-img.jpg",
-      "bgImgLink": "/images/background/hero-bg.jpg",
-      "title": "Hi, I am <span>Jhon Doe</span>",
-      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
-    },
-    "homeThreeHero": {
-      "imgAuthor": "/images/section/hero-img.jpg",
-      "bgImgLink": "/images/background/hero-bg-1.jpg",
-      "title": "Hi, I am <span>Jhon Doe</span>",
-      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
-    },
-    "homeFourHero": {
-      "imgAuthor": "/images/section/hero-img.jpg",
-      "bgImgLink": "/images/background/hero-bg-2.jpg",
-      "title": "Hi, I am <span>Jhon Doe</span>",
-      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
     }
   },
   "aboutData": {
@@ -377,76 +359,6 @@
       }
     ]
   },
-  "blogData": {
-    "useFor": "blog",
-    "sliderSetting": {
-      "infinite": true,
-      "speed": 500,
-      "slidesToShow": 3,
-      "slidesToScroll": 1,
-      "arrows": false,
-      "responsive": [
-        {
-          "breakpoint": 991,
-          "settings": {
-            "slidesToShow": 2,
-            "autoplay": true
-          }
-        },
-        {
-          "breakpoint": 767,
-          "settings": {
-            "slidesToShow": 1,
-            "autoplay": true
-          }
-        }
-      ]
-    },
-    "informations": [
-      {
-        "imgLink": "./images/blog/blog1.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "latest trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      },
-      {
-        "imgLink": "./images/blog/blog2.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      },
-      {
-        "imgLink": "./images/blog/blog3.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "Trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      },
-      {
-        "imgLink": "./images/blog/blog1.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      },
-      {
-        "imgLink": "./images/blog/blog2.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "The latest trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      },
-      {
-        "imgLink": "./images/blog/blog3.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      }
-    ]
-  },
   "reviewData": {
     "useFor": "review",
     "sliderSetting": {
@@ -577,20 +489,6 @@
       "icon": "whatsapp",
       "title": "WhatsApp",
       "link": "https://wa.me/923310211477"
-    }
-  ],
-  "socialData2": [
-    {
-      "icon": "facebook-f",
-      "link": "/facebook"
-    },
-    {
-      "icon": "twitter",
-      "link": "/twitter"
-    },
-    {
-      "icon": "github",
-      "link": "/github"
     }
   ]
 }

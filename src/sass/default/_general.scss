@@ -226,3 +226,34 @@ hr {
     border-bottom: none;
   }
 }
+
+/* Global custom scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba($base-color3, 0.85) rgba($dark-color4, 0.85);
+}
+
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+*::-webkit-scrollbar-track {
+  background: rgba($dark-color4, 0.8);
+  border-radius: 12px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, $base-color1, $base-color2);
+  border-radius: 12px;
+  border: 2px solid rgba($dark-color2, 0.75);
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, lighten($base-color1, 7%), lighten($base-color2, 7%));
+}
+
+*::-webkit-scrollbar-corner {
+  background: rgba($dark-color4, 0.70);
+}
+
