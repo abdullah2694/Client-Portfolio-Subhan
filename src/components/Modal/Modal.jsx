@@ -1,13 +1,16 @@
 import './Modal.scss';
 
-const Modal = ({ img, title, subTitle, modalClose }) => {
+const Modal = ({ imgLinks, title, subTitle, modalClose }) => {
   const modalStyle = {
     backgroundColor: 'rgba(0,0,0,0.8)',
     display: 'block',
   };
+
+  const images = imgLinks && imgLinks.length > 0 ? imgLinks : [];
+
   return (
     <div className="modal show fade bd-example-modal-lg" style={modalStyle}>
-      <div className="modal-dialog modal-lg">
+      <div className="modal-dialog modal-xl">
         <div className="modal-content">
           <div className="modal-header">
             <h4 className="modal-title">{title}</h4>
@@ -18,8 +21,12 @@ const Modal = ({ img, title, subTitle, modalClose }) => {
             ></button>
           </div>
           <div className="modal-body">
-            <div className="st-flex-center">
-              <img src={img} />
+            <div className="modal-images-grid">
+              {images.map((src, index) => (
+                <div className="modal-image-item" key={index}>
+                  <img src={src} alt={`${title} ${index + 1}`} />
+                </div>
+              ))}
             </div>
             <p className="modal-subtitle">{subTitle}</p>
           </div>

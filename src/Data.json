@@ -98,7 +98,7 @@
     "text": "I have developed a strong skill set in TikTok Shop management, from performance marketing to e-commerce operations. Here are some of the key areas where I excel, with a proven track record of driving growth and engagement.",
     "skills": [
       {
-        "title": "Performance Marketing",
+        "title": "Tiktok Shop Marketing",
         "progress": "95%",
         "effect": "fade-up",
         "duration": "500",
@@ -127,7 +127,7 @@
       },
       {
         "title": "Campaign Management",
-        "progress": "80%",
+        "progress": "95%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
@@ -151,211 +151,42 @@
   "portfolioData": {
     "portfolioItems": [
       {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "imgLink": "./images/portfolio/p1a_s.png",
+        "imgLinks": [
+          "./images/portfolio/p1a.png",
+          "./images/portfolio/p1b.png",
+          "./images/portfolio/p1c.png"
+        ],
         "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "subTitle": "Tiktok Shop Marketing",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
       },
       {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "imgLink": "./images/portfolio/p2a_s.png",
+        "imgLinks": [
+          "./images/portfolio/p2a.png",
+          "./images/portfolio/p2b.png"
+        ],
         "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "subTitle": "Tiktok Shop Marketing",
         "effect": "fade-up",
         "duration": "500",
         "delay": "300"
       },
       {
-        "imgLink": "./images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "./images/portfolio/p3b_s.jpeg",
+        "imgLinks": [
+          "./images/portfolio/p3a.jpeg",
+          "./images/portfolio/p3b.jpeg",
+          "./images/portfolio/p3c.jpeg"
+        ],
+        "title": "Brands Zone UK",
+        "subTitle": "Tiktok Shop Marketing",
         "effect": "fade-up",
         "duration": "500",
         "delay": "400"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
       }
     ]
   },

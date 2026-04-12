@@ -51,6 +51,12 @@
   }
 }
 
+@media (max-width: 767px) {
+  .st-portfolio {
+    margin: 20px 0;
+  }
+}
+
 .st-portfolio-item-hover {
   position: absolute;
   top: 50%;
