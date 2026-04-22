@@ -2,6 +2,12 @@
 
 .st-about-img {
   min-height: 550px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  border-radius: 20px;
+  overflow: hidden;
 }
 
 .st-about-img-wrap {
