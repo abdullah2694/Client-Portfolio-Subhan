@@ -1,4 +1,47 @@
 @import "../../sass/default/variable";
+
+.portfolio-filter {
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+
+  @media screen and (max-width: 767px) {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    overflow-x: auto;
+    padding-bottom: 10px;
+    -webkit-overflow-scrolling: touch;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+
+  .st-filter-btn {
+    background-color: transparent;
+    border: 1px solid #ffd700;
+    color: #ffd700;
+    padding: 8px 24px;
+    border-radius: 30px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-family: "Roboto", sans-serif;
+    white-space: nowrap;
+
+    &:hover,
+    &.active {
+      background-color: #070d1b;
+      border-color: #1c3161;
+      color: #ffd700;
+    }
+  }
+}
+
 .st-portfolio {
   display: block;
   position: relative;

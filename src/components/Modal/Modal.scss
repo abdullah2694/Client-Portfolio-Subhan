@@ -2,7 +2,7 @@
 
 .modal-title,
 .modal-subtitle {
-  color: $base-color4;
+  color: #111;
 }
 
 .modal-dialog {
@@ -20,4 +20,51 @@
   width: 100%;
   display: block;
   border-radius: 10px;
+}
+
+.modal-details {
+  margin-top: 30px;
+  color: #333;
+
+  .modal-details-heading {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    color: #111;
+  }
+
+  .modal-details-text {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    white-space: pre-line;
+    color: #444;
+  }
+
+  .table-responsive {
+    margin-bottom: 20px;
+  }
+
+  .modal-details-table {
+    color: #333;
+    border: 1px solid rgba(0, 0, 0, 0.2) !important;
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 25px;
+    margin-top: 15px;
+    
+    th {
+      font-weight: 600;
+      background-color: rgba(0, 0, 0, 0.05);
+      border-bottom: 2px solid rgba(0, 0, 0, 0.2) !important;
+      color: #111;
+    }
+    
+    th, td {
+      padding: 12px 15px;
+      vertical-align: middle;
+      border: 1px solid rgba(0, 0, 0, 0.2) !important;
+    }
+  }
 }

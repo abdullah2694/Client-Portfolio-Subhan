@@ -44,49 +44,49 @@
   "serviceData": {
     "services": [
       {
-        "imgLink": "./images/icon/icon5.png",
-        "title": "Affiliate Marketing Management",
-        "text": "Managed affiliate creators by onboarding, sending samples, and coordinating content. Focused on building relationships to drive consistent sales and improve ROI.",
+        "imgLink": "./images/icon/icon1.png",
+        "title": "TikTok Shop Management",
+        "text": "Expert-level TikTok Shop management including campaign execution, flash sales, influencer coordination, and content strategy to maximize traffic, conversions, and revenue.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "200"
       },
       {
         "imgLink": "./images/icon/icon2.png",
-        "title": "Order & Customer Support Management",
-        "text": "Handled customer queries, returns, and refunds while ensuring smooth order processing. Maintained high satisfaction through quick and effective issue resolution.",
+        "title": "Digital Marketing",
+        "text": "End-to-end digital marketing including paid ads, Social Media Posts, email campaigns, and social media strategy to grow brand visibility, generate leads, and drive measurable results.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "300"
       },
       {
         "imgLink": "./images/icon/icon3.png",
-        "title": "Product Listing Optimization",
-        "text": "Optimized product listings with strong titles, descriptions, and keywords. Updated pricing, stock, and visuals to improve visibility and attract more buyers.",
+        "title": "Affiliate Marketing Management",
+        "text": "Managed full affiliate programs — onboarding creators, sending samples, tracking performance, and optimizing commissions to consistently boost sales and maximize ROI.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "400"
       },
       {
         "imgLink": "./images/icon/icon4.png",
-        "title": "Performance Analysis & Reporting",
-        "text": "Tracked sales, conversions, and campaign performance to identify trends. Shared insights and reports to improve strategies and boost overall shop results.",
+        "title": "Amazon Store Management",
+        "text": "Full Amazon account management covering product listing optimization, keyword research, PPC campaigns, A+ content, review management, and FBA logistics to grow your brand on Amazon.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "500"
       },
       {
-        "imgLink": "./images/icon/icon1.png",
-        "title": "TikTok Shop Marketing & Campaign Execution",
-        "text": "Executed campaigns including discounts, flash sales, and influencer promotions. Focused on increasing traffic, visibility, and conversions through targeted strategies.",
+        "imgLink": "./images/icon/icon5.png",
+        "title": "Shopify Store Development & Management",
+        "text": "Designed and managed professional Shopify stores with optimized product pages, payment setup, apps integration, theme customization, and conversion-focused UX to drive sales.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "600"
       },
       {
         "imgLink": "./images/icon/icon6.png",
-        "title": "Content Strategy & Growth Optimization",
-        "text": "Developed content strategies based on trends to increase engagement. Guided creators to produce videos that improve reach, growth, and sales performance.",
+        "title": "AI Agents & Automation",
+        "text": "Built and deployed AI agents to automate repetitive business tasks, customer interactions, lead generation, and workflows saving time and scaling operations efficiently.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "700"
@@ -98,53 +98,67 @@
     "text": "I have developed a strong skill set in TikTok Shop management, from performance marketing to e-commerce operations. Here are some of the key areas where I excel, with a proven track record of driving growth and engagement.",
     "skills": [
       {
-        "title": "Tiktok Shop Marketing",
+        "title": "TikTok Shop Management",
         "progress": "95%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
       },
       {
-        "title": "Data Analysis & Reporting",
-        "progress": "75%",
+        "title": "Affiliate Marketing Management",
+        "progress": "90%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "300"
       },
       {
-        "title": "Affiliate & Influencer Management",
+        "title": "E-Commerce Management",
         "progress": "90%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "400"
       },
       {
-        "title": "Content Strategy",
+        "title": "Content Strategy & Creator Growth",
         "progress": "85%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "500"
       },
       {
-        "title": "Campaign Management",
-        "progress": "95%",
+        "title": "Digital Marketing & Paid Ads",
+        "progress": "90%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
       },
       {
-        "title": "Product Optimization",
-        "progress": "90%",
+        "title": "Performance Analysis & Reporting",
+        "progress": "85%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
       },
       {
-        "title": "E-commerce Operations",
-        "progress": "90%",
+        "title": "Amazon Store Management",
+        "progress": "85%",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "700"
+        "delay": "800"
+      },
+      {
+        "title": "Shopify E-commerce Services",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "800"
+      },
+      {
+        "title": "AI Agents & Workflow Automation",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "900"
       }
     ]
   },
@@ -153,44 +167,250 @@
       {
         "imgLink": "./images/portfolio/p1.jpg",
         "imgLinks": [
+          "./images/portfolio/p1.jpg",
           "./images/portfolio/p1a.png",
           "./images/portfolio/p1b.png",
           "./images/portfolio/p1c.png"
         ],
         "title": "Top Shelf Supplements",
         "subTitle": "Tiktok Shop Marketing",
+        "category": ["TikTok Shop"],
         "effect": "fade-up",
         "duration": "500",
-        "delay": "200"
+        "delay": "200",
+        "details": [
+          {
+            "type": "heading",
+            "content": "Seller Center — Last 28 days (Jan 15, 2025)"
+          },
+          {
+            "type": "table",
+            "headers": ["Metric", "Value"],
+            "rows": [
+              ["GMV", "$1,305,120.84"],
+              ["Buyers", "30,517"],
+              ["Ordered SKUs", "31,030"],
+              ["Visitors", "13,977,306"],
+              ["Shop Performance Rating", "4.8 / 5.0"]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": "Description 1 — Seller Center\nThe Seller Center is performing strongly across all key metrics over the last 28 days, with GMV surpassing $1.3M (+25.75%) and visitors growing by over 42%, indicating healthy traffic conversion. The shop maintains a near-perfect 4.8/5.0 performance score. However, 999+ pending shipments signal a logistics bottleneck that requires immediate attention to maintain customer satisfaction and avoid order delays."
+          },
+          {
+            "type": "heading",
+            "content": "Affiliate Center — Last 7 days (Jan 14, 2025)"
+          },
+          {
+            "type": "table",
+            "headers": ["Metric", "Value"],
+            "rows": [
+              ["Affiliate GMV", "$288,785.33"],
+              ["Est. Commission", "$60,074.01"],
+              ["Items Sold", "7,094"],
+              ["Short Videos", "2,931"],
+              ["Creator Showcase Products", "1,865"]
+            ]
+          },
+          {
+            "type": "heading",
+            "content": "Creator Analysis — Last 28 days (Dec 19, 2024 – Jan 15, 2025)"
+          },
+          {
+            "type": "table",
+            "headers": ["Metric", "Value"],
+            "rows": [
+              ["Affiliate GMV", "$1.2M (93.35% of seller GMV)"],
+              ["Affiliate LIVE GMV", "$15.3K"],
+              ["Affiliate Shoppable Video GMV", "$1.2M"],
+              ["Affiliate Product Card GMV", "$3.8K"],
+              ["Est. Commission", "$250.2K"],
+              ["Items Sold", "29.1K"],
+              ["Total Affiliates", "34,995"]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": "Description 2 — Affiliate & Creator\nThe affiliate program is a dominant revenue driver, contributing 93.35% of total seller GMV over the last 28 days, with shoppable video content alone generating $1.2M. LIVE GMV surged +258.61%, reflecting strong creator engagement on livestream formats. On the 7-day view, while GMV and commissions are trending upward, short videos and creator showcase products declined ~9.5%, suggesting creators may be shifting focus away from product showcasing — a trend worth monitoring and addressing through targeted outreach or incentives."
+          }
+        ]
       },
       {
         "imgLink": "./images/portfolio/p2.jpg",
         "imgLinks": [
+          "./images/portfolio/p2.jpg",
           "./images/portfolio/p2a.png",
           "./images/portfolio/p2b.png"
         ],
         "title": "Nutrify",
         "subTitle": "Tiktok Shop Marketing",
+        "category": ["TikTok Shop"],
         "effect": "fade-up",
         "duration": "500",
-        "delay": "300"
+        "delay": "300",
+        "details": [
+          {
+            "type": "heading",
+            "content": "UK Seller Centre — Last 28 days (Updated Jan 16, 2025)"
+          },
+          {
+            "type": "table",
+            "headers": ["Metric", "Value"],
+            "rows": [
+              ["GMV", "£38,276.32"],
+              ["Buyers", "776"],
+              ["Ordered SKUs", "1,082"],
+              ["Visitors", "55,555"]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": "Description 1 — UK Seller Centre Homepage\nThe UK store is experiencing a significant decline across core sales metrics — GMV, buyers, and ordered SKUs all dropped over 37–44% compared to the previous 28-day period. While visitor traffic grew +34.45%, it is not converting into purchases, which points to potential issues with product pricing, listings, or stock availability. With 71 products out of stock out of 90 flagged as low stock, inventory shortages are likely the primary cause of lost sales. The shop health status of \"Needs Improvement\" — with 5 metrics below threshold including a 74% 24-hour response rate — adds urgency to address both operational responsiveness and stock replenishment."
+          },
+          {
+            "type": "heading",
+            "content": "UK Analytics — Last 28 days (Dec 20, 2024 – Jan 16, 2025)"
+          },
+          {
+            "type": "table",
+            "headers": ["Metric", "Value"],
+            "rows": [
+              ["GMV", "£38,276.32"],
+              ["Est. Net Revenue", "£27,333.80"],
+              ["Gross Revenue (with platform fees)", "£39,811.42"],
+              ["Today's GMV", "£412.47"],
+              ["Today's Items Sold", "12"],
+              ["Today's Visitors", "804"],
+              ["Today's Customers", "11"]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": "Description 2 — UK Analytics Overview\nThe analytics data reinforces the homepage findings — all revenue metrics are in decline over the 28-day window, with Est. Net Revenue falling the hardest at -41.68%. The gap between Gross Revenue (£39,811) and Net Revenue (£27,333) represents approximately £12,478 in platform fees and deductions, which is worth reviewing for margin optimisation. Today's figures are sharply lower than yesterday's across all metrics (GMV down from £1,275 to £412, customers from 29 to 11), suggesting a volatile daily performance pattern likely tied to stock-out issues. The absence of any LIVE video activity and no active campaigns are missed opportunities to drive traffic and conversion at a time when the store needs a recovery push."
+          }
+        ]
       },
       {
         "imgLink": "./images/portfolio/p3.jpg",
         "imgLinks": [
+          "./images/portfolio/p3.jpg",
           "./images/portfolio/p3a.jpeg",
           "./images/portfolio/p3b.jpeg",
           "./images/portfolio/p3c.jpeg"
         ],
         "title": "Brands Zone UK",
         "subTitle": "Tiktok Shop Marketing",
+        "category": ["TikTok Shop"],
         "effect": "fade-up",
         "duration": "500",
-        "delay": "400"
+        "delay": "400",
+        "details": [
+          {
+            "type": "heading",
+            "content": "UK Seller Centre — Last 28 days (Updated Apr 6, 2026)"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Metric",
+              "Value"
+            ],
+            "rows": [
+              [
+                "GMV",
+                "£35,164.75"
+              ],
+              [
+                "Customers",
+                "1,474"
+              ],
+              [
+                "SKU Orders",
+                "1,891"
+              ],
+              [
+                "Visitors",
+                "100,842"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": "Description 1 — UK Seller Centre Homepage (28 Days)\nThe UK store has recovered meaningfully compared to the January 2025 data — GMV is growing again at +7.25% and all key metrics are trending positively. Visitor traffic has surged to over 100,000 (+34.10%), and customer and order counts are both up double digits, suggesting improved product availability and listing quality. The stock situation has also improved dramatically from 71 out-of-stock products in January down to just 5, though this should remain a close watch. The Shop Health status still reads \"Needs Improvement,\" indicating there are ongoing compliance or performance issues that need resolving to protect the store's standing on the platform."
+          },
+          {
+            "type": "heading",
+            "content": "UK Seller Centre — Last 7 days (Updated Apr 6, 2026)"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Metric",
+              "Value"
+            ],
+            "rows": [
+              [
+                "GMV",
+                "£9,556.42"
+              ],
+              [
+                "Customers",
+                "423"
+              ],
+              [
+                "SKU Orders",
+                "537"
+              ],
+              [
+                "Visitors",
+                "19,659"
+              ]
+            ]
+          },
+          {
+            "type": "heading",
+            "content": "UK Ads Dashboard — GMV Max (Mar 7 – Apr 6, 2026)"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Metric",
+              "Value"
+            ],
+            "rows": [
+              [
+                "Ad Spend (Cost)",
+                "£3,654.74 GBP"
+              ],
+              [
+                "SKU Orders (via ads)",
+                "2,010"
+              ],
+              [
+                "Cost per Order",
+                "£1.82 GBP"
+              ],
+              [
+                "Gross Revenue (via ads)",
+                "£39,531.74 GBP"
+              ],
+              [
+                "ROI (current)",
+                "10.82"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": "Description 2 — Ads Dashboard & 7-Day Overview\nThe 7-day snapshot shows slow but steady growth — GMV up 3.77% and visitors up 10.59%, though customer growth is nearly flat at +0.24%, meaning traffic is not fully converting. On the ads side, GMV Max campaigns are generating strong gross revenue of £39,531 from £3,654 in spend, delivering an ROI of 10.82x — a healthy return. However, the ROI has declined -14.40% vs the previous period, driven by ad costs rising +22.16% while SKU orders stayed almost flat (-0.05%). This cost-per-order creep (now £1.82, up 22.15%) needs monitoring closely. The Commission Savings Programme (not yet started) could help offset rising ad costs and is worth activating given the store's current growth phase."
+          }
+        ]
       },
       {
         "imgLink": "./images/portfolio/p4.jpg",
         "imgLinks": [
+          "./images/portfolio/p4.jpg",
           "./images/portfolio/p4a.jpeg",
           "./images/portfolio/p4b.jpeg",
           "./images/portfolio/p4c.jpeg",
@@ -199,9 +419,82 @@
         ],
         "title": "Qlean",
         "subTitle": "Tiktok Shop Marketing",
+        "category": ["TikTok Shop"],
         "effect": "fade-up",
         "duration": "500",
-        "delay": "400"
+        "delay": "400",
+        "details": [
+          {
+            "type": "heading",
+            "content": "US Analytics — Last 7 days (Aug 26 – Sep 1, 2025)"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Metric",
+              "Value"
+            ],
+            "rows": [
+              [
+                "GMV",
+                "$6,076.62"
+              ],
+              [
+                "Orders",
+                "471"
+              ],
+              [
+                "Avg. Daily Customers",
+                "64.71"
+              ],
+              [
+                "Items Sold",
+                "514"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": "Description 1 — US Analytics (7-Day)\nThe US store posted explosive growth in the last 7 days of August 2025, with all key metrics up over 237–298% compared to the prior week. GMV reached $6,076 on just 471 orders, and items sold hit 514 — indicating strong average order values. The upward trend visible in the chart accelerates sharply from Aug 29 onwards, peaking around Aug 31, which suggests a campaign, viral content, or affiliate-driven sales spike. Platform recommendations to request reviews and reduce negative reviews (each estimated to increase sales by 3%) are low-effort actions that should be acted on immediately to sustain this momentum."
+          },
+          {
+            "type": "heading",
+            "content": "US Seller Center — Last 28 days (Updated Sep 1, 2025)"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Metric",
+              "Value"
+            ],
+            "rows": [
+              [
+                "GMV",
+                "$17,892.37"
+              ],
+              [
+                "Customers",
+                "1,272"
+              ],
+              [
+                "SKU Orders",
+                "1,385"
+              ],
+              [
+                "Visitors",
+                "102,207"
+              ],
+              [
+                "Shop Performance Rating",
+                "4.1 / 5.0"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": "Description 2 — US Seller Center Homepage (7-Day & 28-Day)\nOver the full 28-day period the US store generated $17,892 in GMV with 1,272 customers and over 102,000 visitors, all growing solidly at 17–40%. The 7-day view reveals the growth is heavily back-loaded — the final week alone contributed $6,076 (34% of the monthly GMV), indicating a strong late-August surge that should be investigated and replicated. The shop performance rating of 4.1/5.0 is lower than the 4.8 seen in January 2025, partly attributed to new scoring rules — worth reviewing the Account Health section to understand what's dragging the score down. With 399 orders pending shipment and 10 out-of-stock products, fulfillment capacity needs attention to avoid this growth spike causing delivery delays and negative reviews."
+          }
+        ]
       }
     ]
   },
@@ -251,6 +544,17 @@
   "resumeData": {
     "experienceTitle": "Experience",
     "experience": [
+            {
+        "title": "Freelancing Services on Upwork",
+        "duration": "Oct 2025 - Present",
+        "subTitle": "Upwork (Remote)",
+        "text": [
+          "Building and delivering client projects end-to-end on Upwork's global remote platform since October 2025",
+          "Establishing a freelance brand with a track record of independent, self-managed project delivery",
+          "Collaborating with international clients across time zones, adapting to diverse requirements and workflows",
+          "Driving consistent results in a competitive marketplace through skills, communication, and client satisfaction"
+]
+      },
       {
         "title": "TikTok Shop Executive ",
         "duration": "Nov 2025 - Present",

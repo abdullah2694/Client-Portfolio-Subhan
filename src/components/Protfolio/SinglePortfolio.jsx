@@ -2,14 +2,14 @@ import PropTypes from 'prop-types';
 import { Icon } from '@iconify/react';
 
 const SinglePortfolio = ({ data, getData }) => {
-  const { imgLink, imgLinks = [], title, subTitle, effect, duration, delay } = data;
+  const { imgLink, imgLinks = [], title, subTitle, effect, duration, delay, details } = data;
   const availableImgLinks = imgLinks.filter(Boolean);
 
   return (
     <div className="col-lg-4 col-md-6" data-aos={effect} data-aos-duration={duration} data-aos-delay={delay}>
       <div
         className="st-portfolio-single st-style1"
-        onClick={() => getData(availableImgLinks, title, subTitle)}
+        onClick={() => getData(availableImgLinks, title, subTitle, details)}
       >
         <div className="st-portfolio-item">
           <div className="st-portfolio st-zoom">
