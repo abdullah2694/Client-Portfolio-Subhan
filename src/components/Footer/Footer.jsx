@@ -7,7 +7,7 @@ const Footer = () => {
     <footer>
       <div className="container">
         <div className="st-copyright-wrap text-center">
-          <div className="st-copyright-text">© {currentYear}. Designed by Laralink. All right reserved.</div>
+          <div className="st-copyright-text">© {currentYear}. Designed by <a href="https://abdullahirfanportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Abdullah Irfan</a>. All right reserved.</div>
         </div>
       </div>
     </footer>

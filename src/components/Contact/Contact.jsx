@@ -1,5 +1,9 @@
 import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
+import { useRef } from 'react';
+import emailjs from '@emailjs/browser';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 import './Contact.scss';
 import SectionHeading from '../SectionHeading/SectionHeading';
 import { Icon } from '@iconify/react';
@@ -7,8 +11,23 @@ import SocialLinks from '../SocialLinks/SocialLinks';
 
 const Contact = ({ data, socialData }) => {
   const { title, text, subTitle } = data;
+  const form = useRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('service_mddgpsb', 'template_t9feba1', form.current, 'QCoNfYHuAHv8xC7Uw')
+      .then((result) => {
+          toast.success('Message sent successfully!');
+          e.target.reset();
+      }, (error) => {
+          toast.error('Failed to send message, please try again later.');
+      });
+  };
+
   return (
     <section id="contact" className="st-dark-bg">
+      <ToastContainer position="top-right" autoClose={5000} hideProgressBar={false} newestOnTop={false} closeOnClick rtl={false} pauseOnFocusLoss draggable pauseOnHover theme="dark" />
       <div className="st-height-b100 st-height-lg-b80"></div>
       <SectionHeading title="Contact" />
       <div className="container" data-aos="fade-up" data-aos-duration="800" data-aos-delay="500">
@@ -16,18 +35,18 @@ const Contact = ({ data, socialData }) => {
           <div className="col-lg-6">
             <h3 className="st-contact-title">Ready to work together?</h3>
             <div id="st-alert"></div>
-            <form action="#" method="POST" className="st-contact-form" id="contact-form">
+            <form ref={form} onSubmit={sendEmail} className="st-contact-form" id="contact-form">
               <div className="st-form-field">
-                <input type="text" id="name" name="name" placeholder="Your Name" required />
+                <input type="text" id="name" name="user_name" placeholder="Your Name" required />
               </div>
               <div className="st-form-field">
-                <input type="text" id="email" name="email" placeholder="Your Email" required />
+                <input type="email" id="email" name="user_email" placeholder="Your Email" required />
               </div>
               <div className="st-form-field">
                 <input type="text" id="subject" name="subject" placeholder="Your Subject" required />
               </div>
               <div className="st-form-field">
-                <textarea cols="30" rows="10" id="msg" name="msg" placeholder="Your Message" required></textarea>
+                <textarea cols="30" rows="10" id="msg" name="message" placeholder="Your Message" required></textarea>
               </div>
               <button className='st-btn st-style1 st-color1' type="submit" id="submit" name="submit">Send Message</button>
             </form>
